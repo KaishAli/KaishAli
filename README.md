@@ -2,7 +2,7 @@
 - 👨‍💻 Front end developer 
 - 🌱 Love to code eco friendly 
 - 📫 How to reach me 👉👉👉 https://kaishali.github.io/Kaish-Portfolio-/
-- ♥️ To collaborate on
+- ♥️ Love To collaborate
 
 <!---
 KaishAli/KaishAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
