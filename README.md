@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaishAli
+- 👋 Hi, I’m Kaish Ali
 - 👨‍💻 Front end developer 
 - 🌱 Love to code eco friendly 
 - 📫 How to reach me 👉👉👉 https://kaishali.github.io/Kaish-Portfolio-/
