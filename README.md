@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/kaish-ali/**
 
-<img src="https://github.com/KaishAli/KaishAli/raw/main/assets/91947877/b63968c0-9894-4a6d-9c4a-017893ed9265.jpg" alt="forGit" width="200" height="200">
+<img src="https://github.com/KaishAli/KaishAli/raw/main/assets/91947877/b63968c0-9894-4a6d-9c4a-017893ed9265.gif" alt="forGit" width="200" height="200">
+
 ![forGit](https://github.com/KaishAli/KaishAli/assets/91947877/b63968c0-9894-4a6d-9c4a-017893ed9265)
 <p align="left">
 </p>
