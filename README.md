@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Kaish Ali
-- 👨‍💻 Front end developer 
+- 👨‍💻 Front end developer  ![forGit](https://github.com/KaishAli/KaishAli/assets/91947877/124286d8-40cc-40a1-a83a-de56fa6d44d2)
 - 🌱 Love to code eco friendly 
 - 📫 How to reach me 👉👉👉 https://kaishali.github.io/Kaish-Portfolio-/
 - ♥️ Love To collaborate.
-https://tenor.com/en-GB/view/text-work-computer-working-penguin-gif-16760829579653810809
 
 <!---
 KaishAli/KaishAli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
