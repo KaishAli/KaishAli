@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kaish 💸</h1>
 <h3 align="center">A passionate front end developer ,Love to code eco friendly</h3>
 
-- 👨‍💻 All of my projects are available at [https://kaishali.github.io/Kaish-Portfolio-/](https://kaishali.github.io/Kaish-Portfolio-/)
+- 👨‍💻 My Portfolio [https://kaishali.github.io/Kaish-Portfolio-/](https://kaishali.github.io/Kaish-Portfolio-/)
 
 - 💬 Ask me about **React js , HTML,CSS ,JS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kaish-ali/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">![forGit](https://github.com/KaishAli/KaishAli/assets/91947877/b63968c0-9894-4a6d-9c4a-017893ed9265)</h3>
 <p align="left">
 </p>
 
